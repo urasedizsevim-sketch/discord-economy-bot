@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+env/
+ENV/
+.venv/
+
+.env
+config.json
+
+.vscode/
+.idea/
+*.swp
