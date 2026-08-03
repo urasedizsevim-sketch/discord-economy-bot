@@ -37,8 +37,8 @@ A reliable and lightweight Discord bot built in Python to convert fiat currencie
 
 ## Preview
 
-*(Add recorded GIF or screenshot here)*  
-`![Bot Preview](./demo.gif)`
+
+![Bot Preview](./demo.gif)
 
 ---
 
